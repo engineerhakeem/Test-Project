@@ -1,5 +1,5 @@
 function myFunction() {
-    document.getElementById('second').innerHTML = "The responsibility of JS is for Zohal";
+    document.getElementById('second').innerHTML = "The responsibility of Zohal is JS";
 }
 function myFunction1() {
     document.getElementById('second').innerHTML = "";
